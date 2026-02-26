@@ -10,3 +10,4 @@ Auto-generated educational pentesting scripts.
 | [ai_phishing_detector.py](./ai_phishing_detector.py) | AI Phishing URL Detector #AIsecurity #PhishingDetection #PythonProgramming | 2026-02-27 |
 | [credential_spray_simulator.py](./credential_spray_simulator.py) | Why Passwords Fail Without MFA #MFA #CyberSecurity #PythonHacking | 2026-02-27 |
 | [tor_anonymizer.py](./tor_anonymizer.py) | Dark Web Explained + Tool Demo #DarkWeb #Cybersecurity #InfoSec | 2026-02-27 |
+| [subdomain_enum.py](./subdomain_enum.py) | Top 3 Recon Tools #cybersecurity #hacking #reconnaissance | 2026-02-27 |
