@@ -20,3 +20,4 @@ Auto-generated educational pentesting scripts.
 | [sql_injection_demo.py](./sql_injection_demo.py) | SQL Injection in 30 Seconds #SQLInjection #WebSecurity #EthicalHacking | 2026-02-27 |
 | [ransomware_scanner.py](./ransomware_scanner.py) | How Ransomware Spreads #Ransomware #Cybersecurity #Infosec | 2026-02-27 |
 | [recon_scanner.py](./recon_scanner.py) | Top 4 Recon Tools #cybersecurity #ethicalhacking #reconnaissance | 2026-02-27 |
+| [password_cracker_demo.py](./password_cracker_demo.py) | How Hackers Crack Passwords #cybersecurity #passwordsecurity #ethicalhacking | 2026-02-27 |
