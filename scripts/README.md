@@ -19,3 +19,4 @@ Auto-generated educational pentesting scripts.
 | [osint_subdomain_enum.py](./osint_subdomain_enum.py) | 3 Essential OSINT Tools #OSINT #Cybersecurity #EthicalHacking | 2026-02-27 |
 | [sql_injection_demo.py](./sql_injection_demo.py) | SQL Injection in 30 Seconds #SQLInjection #WebSecurity #EthicalHacking | 2026-02-27 |
 | [ransomware_scanner.py](./ransomware_scanner.py) | How Ransomware Spreads #Ransomware #Cybersecurity #Infosec | 2026-02-27 |
+| [recon_scanner.py](./recon_scanner.py) | Top 4 Recon Tools #cybersecurity #ethicalhacking #reconnaissance | 2026-02-27 |
