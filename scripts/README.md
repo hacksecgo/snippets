@@ -13,3 +13,4 @@ Auto-generated educational pentesting scripts.
 | [subdomain_enum.py](./subdomain_enum.py) | Top 3 Recon Tools #cybersecurity #hacking #reconnaissance | 2026-02-27 |
 | [vulnerability_fuzzer.py](./vulnerability_fuzzer.py) | Zero-Day Explains in 30s #ZeroDay #CyberSecurity #EthicalHacking | 2026-02-27 |
 | [tor_research_tool.py](./tor_research_tool.py) | Dark Web Explained + Python Demo #DarkWeb #Cybersecurity #Python | 2026-02-27 |
+| [traffic_sniffer.py](./traffic_sniffer.py) | Why You NEED a VPN on Public Wi-Fi #VPN #CyberSecurity #Privacy | 2026-02-27 |
