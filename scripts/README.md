@@ -16,3 +16,4 @@ Auto-generated educational pentesting scripts.
 | [traffic_sniffer.py](./traffic_sniffer.py) | Why You NEED a VPN on Public Wi-Fi #VPN #CyberSecurity #Privacy | 2026-02-27 |
 | [password_checker.py](./password_checker.py) | Password Security Essentials #CyberSecurity #PasswordSecurity #InfoSec | 2026-02-27 |
 | [sqli_tester.py](./sqli_tester.py) | SQL Injection Demo #SQLInjection #Cybersecurity #EthicalHacking | 2026-02-27 |
+| [osint_subdomain_enum.py](./osint_subdomain_enum.py) | 3 Essential OSINT Tools #OSINT #Cybersecurity #EthicalHacking | 2026-02-27 |
