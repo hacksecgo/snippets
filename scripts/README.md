@@ -17,3 +17,4 @@ Auto-generated educational pentesting scripts.
 | [password_checker.py](./password_checker.py) | Password Security Essentials #CyberSecurity #PasswordSecurity #InfoSec | 2026-02-27 |
 | [sqli_tester.py](./sqli_tester.py) | SQL Injection Demo #SQLInjection #Cybersecurity #EthicalHacking | 2026-02-27 |
 | [osint_subdomain_enum.py](./osint_subdomain_enum.py) | 3 Essential OSINT Tools #OSINT #Cybersecurity #EthicalHacking | 2026-02-27 |
+| [sql_injection_demo.py](./sql_injection_demo.py) | SQL Injection in 30 Seconds #SQLInjection #WebSecurity #EthicalHacking | 2026-02-27 |
