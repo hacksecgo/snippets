@@ -15,3 +15,4 @@ Auto-generated educational pentesting scripts.
 | [tor_research_tool.py](./tor_research_tool.py) | Dark Web Explained + Python Demo #DarkWeb #Cybersecurity #Python | 2026-02-27 |
 | [traffic_sniffer.py](./traffic_sniffer.py) | Why You NEED a VPN on Public Wi-Fi #VPN #CyberSecurity #Privacy | 2026-02-27 |
 | [password_checker.py](./password_checker.py) | Password Security Essentials #CyberSecurity #PasswordSecurity #InfoSec | 2026-02-27 |
+| [sqli_tester.py](./sqli_tester.py) | SQL Injection Demo #SQLInjection #Cybersecurity #EthicalHacking | 2026-02-27 |
