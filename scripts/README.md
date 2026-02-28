@@ -25,3 +25,4 @@ Auto-generated educational pentesting scripts.
 | [api_fuzzer.py](./api_fuzzer.py) | API Hacking Explained #APISecurity #EthicalHacking #BugBounty | 2026-02-28 |
 | [network_scanner.py](./network_scanner.py) | Secure Your Home Wi-Fi in 30 Sec #CyberSecurity #WiFiSecurity #HomeNetwork | 2026-02-28 |
 | [subdomain_finder.py](./subdomain_finder.py) | Subdomain Enumeration for Beginners #bugbounty #cybersecurity #ethicalhacking | 2026-02-28 |
+| [mfa_password_spray.py](./mfa_password_spray.py) | Why MFA Beats Passwords Alone #MFA #CyberSecurity #Python | 2026-02-28 |
