@@ -23,3 +23,4 @@ Auto-generated educational pentesting scripts.
 | [password_cracker_demo.py](./password_cracker_demo.py) | How Hackers Crack Passwords #cybersecurity #passwordsecurity #ethicalhacking | 2026-02-27 |
 | [osint_gatherer.py](./osint_gatherer.py) | Social Engineering Attacks Explained #SocialEngineering #Cybersecurity #Phishing | 2026-02-28 |
 | [api_fuzzer.py](./api_fuzzer.py) | API Hacking Explained #APISecurity #EthicalHacking #BugBounty | 2026-02-28 |
+| [network_scanner.py](./network_scanner.py) | Secure Your Home Wi-Fi in 30 Sec #CyberSecurity #WiFiSecurity #HomeNetwork | 2026-02-28 |
