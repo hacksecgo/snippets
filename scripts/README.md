@@ -26,3 +26,4 @@ Auto-generated educational pentesting scripts.
 | [network_scanner.py](./network_scanner.py) | Secure Your Home Wi-Fi in 30 Sec #CyberSecurity #WiFiSecurity #HomeNetwork | 2026-02-28 |
 | [subdomain_finder.py](./subdomain_finder.py) | Subdomain Enumeration for Beginners #bugbounty #cybersecurity #ethicalhacking | 2026-02-28 |
 | [mfa_password_spray.py](./mfa_password_spray.py) | Why MFA Beats Passwords Alone #MFA #CyberSecurity #Python | 2026-02-28 |
+| [router_port_scanner.py](./router_port_scanner.py) | Secure Your Home Network #CyberSecurity #HomeNetwork #Python | 2026-02-28 |
