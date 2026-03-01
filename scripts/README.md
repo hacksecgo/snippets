@@ -29,3 +29,4 @@ Auto-generated educational pentesting scripts.
 | [router_port_scanner.py](./router_port_scanner.py) | Secure Your Home Network #CyberSecurity #HomeNetwork #Python | 2026-02-28 |
 | [xss_detector.py](./xss_detector.py) | XSS Attacks Explained + Detector #XSS #WebSecurity #Python | 2026-02-28 |
 | [pentest_port_scanner.py](./pentest_port_scanner.py) | Pen Testing Explained in 30s #PenetrationTesting #EthicalHacking #Cybersecurity | 2026-03-01 |
+| [redteam_port_scanner.py](./redteam_port_scanner.py) | Red Team vs Blue Team Explained #RedTeam #BlueTeam #CyberSecurity | 2026-03-01 |
