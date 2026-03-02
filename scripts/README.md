@@ -33,3 +33,4 @@ Auto-generated educational pentesting scripts.
 | [mfa_simulator.py](./mfa_simulator.py) | Why MFA is non-negotiable #CyberSecurity #MFA #MultiFactorAuthentication | 2026-03-01 |
 | [darkweb_monitor.py](./darkweb_monitor.py) | Dark Web Monitoring Script #DarkWeb #Cybersecurity #Python | 2026-03-01 |
 | [ethical_port_scanner.py](./ethical_port_scanner.py) | Pen Testing Explained in 30s #PenetrationTesting #EthicalHacking #Cybersecurity | 2026-03-02 |
+| [wifi_sniffer_demo.py](./wifi_sniffer_demo.py) | Why You NEED a VPN on Public Wi-Fi #VPN #CyberSecurity #PythonProgramming | 2026-03-02 |
