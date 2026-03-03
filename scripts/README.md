@@ -42,3 +42,4 @@ Auto-generated educational pentesting scripts.
 | [zero_day_fuzzer.py](./zero_day_fuzzer.py) | Zero-Day Exploits Explained #ZeroDay #Cybersecurity #EthicalHacking | 2026-03-03 |
 | [xss_scanner.py](./xss_scanner.py) | XSS Attacks Explained #XSS #WebSecurity #Python | 2026-03-03 |
 | [mfa_demo.py](./mfa_demo.py) | Why MFA is Non-Negotiable #MFA #CyberSecurity #InfoSec | 2026-03-03 |
+| [social_engineering_recon.py](./social_engineering_recon.py) | Social Engineering Explained #SocialEngineering #Cybersecurity #Phishing | 2026-03-03 |
