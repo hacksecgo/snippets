@@ -39,3 +39,4 @@ Auto-generated educational pentesting scripts.
 | [osint_collector.py](./osint_collector.py) | OSINT Tool: TheHarvester #OSINT #Cybersecurity #Python | 2026-03-03 |
 | [secret_scanner.py](./secret_scanner.py) | How Hackers Find Your Secrets #Cybersecurity #Python #EthicalHacking | 2026-03-03 |
 | [basic_port_scanner.py](./basic_port_scanner.py) | Bug Bounty: Start Simple #BugBounty #Cybersecurity #EthicalHacking | 2026-03-03 |
+| [zero_day_fuzzer.py](./zero_day_fuzzer.py) | Zero-Day Exploits Explained #ZeroDay #Cybersecurity #EthicalHacking | 2026-03-03 |
