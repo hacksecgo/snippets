@@ -37,3 +37,4 @@ Auto-generated educational pentesting scripts.
 | [network_discovery.py](./network_discovery.py) | Secure Your Home Wi-Fi in 30 Sec #CyberSecurity #WiFiSecurity #HomeNetwork | 2026-03-02 |
 | [rdp_scanner.py](./rdp_scanner.py) | How Ransomware Spreads: RDP Scanning #Ransomware #CyberSecurity #Python | 2026-03-02 |
 | [osint_collector.py](./osint_collector.py) | OSINT Tool: TheHarvester #OSINT #Cybersecurity #Python | 2026-03-03 |
+| [secret_scanner.py](./secret_scanner.py) | How Hackers Find Your Secrets #Cybersecurity #Python #EthicalHacking | 2026-03-03 |
