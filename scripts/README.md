@@ -36,3 +36,4 @@ Auto-generated educational pentesting scripts.
 | [wifi_sniffer_demo.py](./wifi_sniffer_demo.py) | Why You NEED a VPN on Public Wi-Fi #VPN #CyberSecurity #PythonProgramming | 2026-03-02 |
 | [network_discovery.py](./network_discovery.py) | Secure Your Home Wi-Fi in 30 Sec #CyberSecurity #WiFiSecurity #HomeNetwork | 2026-03-02 |
 | [rdp_scanner.py](./rdp_scanner.py) | How Ransomware Spreads: RDP Scanning #Ransomware #CyberSecurity #Python | 2026-03-02 |
+| [osint_collector.py](./osint_collector.py) | OSINT Tool: TheHarvester #OSINT #Cybersecurity #Python | 2026-03-03 |
