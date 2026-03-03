@@ -40,3 +40,4 @@ Auto-generated educational pentesting scripts.
 | [secret_scanner.py](./secret_scanner.py) | How Hackers Find Your Secrets #Cybersecurity #Python #EthicalHacking | 2026-03-03 |
 | [basic_port_scanner.py](./basic_port_scanner.py) | Bug Bounty: Start Simple #BugBounty #Cybersecurity #EthicalHacking | 2026-03-03 |
 | [zero_day_fuzzer.py](./zero_day_fuzzer.py) | Zero-Day Exploits Explained #ZeroDay #Cybersecurity #EthicalHacking | 2026-03-03 |
+| [xss_scanner.py](./xss_scanner.py) | XSS Attacks Explained #XSS #WebSecurity #Python | 2026-03-03 |
